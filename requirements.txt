@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+openai
+python-dotenv
+sqlite3
+hl7-fhir-client
